@@ -2,6 +2,12 @@
 
 Drag the link to your bookmarks bar: [Blooket Auto Answer](javascript:fetch('https://reedgraf.github.io/blooket/utils/answer.js').then(res => res.text().then(t => eval(t)))) 
 
+```
+Source code:
+javascript:fetch('https://reedgraf.github.io/blooket/utils/answer.js').then(res => res.text().then(t => eval(t)))
+Initially created by gbasil.dev 
+```
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
