@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Reed Graf - Blooket 
 
-You can use the [editor on GitHub](https://github.com/ReedGraf/blooket/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Drag the link to your bookmarks bar: [Blooket Auto Answer](https://github.com/ReedGraf/blooket/token.js) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
