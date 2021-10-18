@@ -1,10 +1,10 @@
 ## Reed Graf - Blooket 
 
-Drag the link to your bookmarks bar: [Blooket Auto Answer](javascript:fetch('https://reedgraf.github.io/blooket/utils/answer.js').then(res => res.text().then(t => eval(t)))) 
+Drag the link to your bookmarks bar: [Blooket Auto Answer](javascript:fetch('https://raw.githubusercontent.com/ReedGraf/blooket/main/Utils/Answer.js').then(res => res.text().then(t => eval(t)))) 
 
 ```
 Source code:
-javascript:fetch('https://reedgraf.github.io/blooket/utils/answer.js').then(res => res.text().then(t => eval(t)))
+javascript:fetch('https://raw.githubusercontent.com/ReedGraf/blooket/main/Utils/Answer.js').then(res => res.text().then(t => eval(t)))
 Initially created by gbasil.dev 
 ```
 
